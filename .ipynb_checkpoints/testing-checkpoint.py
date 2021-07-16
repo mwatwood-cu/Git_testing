@@ -3,10 +3,3 @@
 # This is a section for functions
 def introduction(name):
     print("Hello my name is "+name)
-
-
-# This is the section that uses the functions
-
-introduction("Matt")
-print("Well that's the computer.")
-introduction("electronically generated")
