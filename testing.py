@@ -10,3 +10,5 @@ def matt_introduction(name):
 # This is the section that uses the functions
 
 introduction("Matt")
+print("Well that's the computer.")
+introduction("electronically generated")
