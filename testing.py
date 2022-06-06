@@ -9,6 +9,6 @@ def matt_introduction(name):
 
 # This is the section that uses the functions
 
-introduction("Jim")
+introduction("Jim-bob")
 print("Well that's the computer.")
-introduction("Computational")
+introduction("Computational-Intelligence")
