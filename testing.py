@@ -9,6 +9,6 @@ def matt_introduction(name):
 
 # This is the section that uses the functions
 
-introduction("M@")
+introduction("M@t")
 print("Testing another name.")
-introduction("Jon Snow")
+introduction("Danaerys")
