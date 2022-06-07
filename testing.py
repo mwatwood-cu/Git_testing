@@ -10,5 +10,5 @@ def matt_introduction(name):
 # This is the section that uses the functions
 
 introduction("M@")
-print("Well that's the computer.")
+print("Testing another name.")
 introduction("Jon Snow")
